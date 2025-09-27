@@ -6,7 +6,7 @@
 
 ## 🖼️ Preview
 
-![WYT CONVERT Screenshot]([https://private-user-images.githubusercontent.com/234728299/494683976-7964ab6e-8f82-4992-9ed6-63ebc876533b.png?raw=true](https://github.com/azraelexe94/WYT-CONVERT/blob/main/conversor.png))
+![WYT CONVERT Screenshot](https://github.com/azraelexe94/WYT-CONVERT/blob/main/conversor.png?raw=true)
 
 ---
 
@@ -36,4 +36,3 @@ O **WYT CONVERT** foi desenvolvido por **Azrael.exe** após diversos pedidos da 
 
 🔧 **Autor:** Azrael.exe  
 💬 Feedbacks, sugestões e melhorias são sempre bem-vindos!  
-
